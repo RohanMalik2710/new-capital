@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from sentence_transformers import SentenceTransformer, util
 import torch
 import json
+import os
 
 app = Flask(__name__)
 
@@ -42,5 +43,7 @@ def query():
 
     return jsonify({"results": results})
 
+port = int(os.environ.get("PORT", 5000))
+
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(host="0.0.0.0", port=port)
