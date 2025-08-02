@@ -1,0 +1,4 @@
+flask
+torch
+sentence-transformers
+json

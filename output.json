@@ -1,0 +1,316 @@
+{
+    "title": [
+        "Agriculture Expert Show"
+    ],
+    "source": "https://www.youtube.com/watch?v=2TLesU6_V4g",
+    "qa_pairs": [
+        {
+            "Question": "How important is the use of fertilizers for our farmers' health, soil health, and crop yields?",
+            "Answer": "Fertilizer management is crucial for crop production.  Improper use pollutes the environment and negatively impacts soil health. Since our country isn't self-sufficient in fertilizers, requiring significant imports, farmers should prioritize soil testing at least every 2-3 years to determine nutrient deficiencies and appropriate fertilizer amounts.  Using the correct type, amount, and method of fertilizer application protects both the environment and health."
+        },
+        {
+            "Question": "What is the balanced use of fertilizers, and why is it important?",
+            "Answer": "Balanced fertilizer use means providing all essential nutrients in the right amounts and proportions at the right time, according to the crop's needs. Plants need 18 nutrients for complete growth; nitrogen, phosphorus, and potassium are used in larger amounts, while others are needed in smaller quantities.  Balanced use ensures the crop receives these nutrients in the correct ratio."
+        },
+        {
+            "Question": "What are the fertilizer requirements for Jowar (Sorghum) in irrigated and non-irrigated areas?",
+            "Answer": "For Jowar, irrigated fields require 100-120 kg nitrogen, 50-60 kg phosphorus, and 40-50 kg potassium per hectare.  Non-irrigated fields need 50-60 kg nitrogen, 30-40 kg phosphorus, and 30-40 kg potassium per hectare."
+        },
+        {
+            "Question": "What are the fertilizer recommendations for early cauliflower and green chilies?",
+            "Answer": "Early cauliflower requires 40 kg nitrogen, 60 kg phosphorus, and 40 kg potassium per hectare. Green chilies need 40 kg of each: nitrogen, phosphorus, and potassium per hectare."
+        },
+        {
+            "Question": "What is the recommended amount of nitrogen top dressing for cucurbits after 25-30 days of sowing?",
+            "Answer": "15-20 kg of nitrogen per hectare."
+        },
+        {
+            "Question": "What is the recommended amount and timing of nitrogen application for turmeric?",
+            "Answer": "40 kg of nitrogen per hectare, 35-40 days after sowing, applied between rows."
+        },
+        {
+            "Question": "What is the current status of banana cultivation in India, and which regions are major producers?",
+            "Answer": "Banana cultivation is widespread in India, with major production in Maharashtra, Tamil Nadu, and increasingly, Uttar Pradesh.  It constitutes approximately 30% of total fruit production in the country."
+        },
+        {
+            "Question": "Why is banana cultivation increasing in India?",
+            "Answer": "High demand and profitability drive the increasing cultivation. Bananas are a nutritious fruit, rich in carbohydrates, some protein,  minerals, vitamins, and especially potassium, making them popular and in constant demand."
+        },
+        {
+            "Question": "What are the nutritional benefits of bananas?",
+            "Answer": "Bananas are rich in carbohydrates, contain some protein,  have a low fat content, are a good source of various minerals and vitamins, and are particularly rich in potassium."
+        },
+        {
+            "Question": "What are some non-food uses of bananas?",
+            "Answer": "Banana leaves are used as plates for serving food in some cultures."
+        },
+        {
+            "Question": "Can banana cultivation be done in Shimla, Himachal Pradesh, considering the climate and temperature?",
+            "Answer": "While Shimla's climate presents a challenge due to frost damage to banana leaves, cultivation is possible in areas with temperatures between 25°C and 35°C.  Bananas have large leaves and high biomass, making them susceptible to cell freezing during cold snaps."
+        },
+        {
+            "Question": "How can soil testing be done in Himachal Pradesh for banana cultivation?",
+            "Answer": "The provided text does not detail how to conduct soil testing in Himachal Pradesh.  This would require further information or consultation with local agricultural experts."
+        },
+        {
+            "Question": "What is the ideal size and age of banana suckers (plantlets) for planting?",
+            "Answer": "For short-duration varieties like Nendran, Rasthalipoovan, and Poovan, suckers should weigh 1-1.5 kg and be 3-5 months old.  For long-duration varieties like Tarapur, Valli, and Lal Kela, suckers should weigh 1.5-2 kg and be 3-5 months old.  If using micro-propagated plants, select 30cm tall secondary suckers with a 5cm thickness and at least 5 fully opened, healthy leaves."
+        },
+        {
+            "Question": "What measures should be taken to prevent Fusarium wilt disease in banana plants?",
+            "Answer": "To prevent Fusarium wilt, dip the suckers in a 0.2% Carbendazim solution for 15-20 minutes before planting.  Keep the treated plants in shade overnight before planting the next day."
+        },
+        {
+            "Question": "What are some essential banana cultivation practices?",
+            "Answer": "Remove unwanted suckers.  Maintain proper drainage by mounding soil around the plants. Provide support (staking) for fruiting plants."
+        },
+        {
+            "Question": "How often should soil testing be done, and what is the proper procedure for collecting soil samples?",
+            "Answer": "Soil testing should be done every 2-3 years. For a 1-acre field, collect samples from 78 different locations.  Dig a V-shaped hole 15 centimeters deep (about 2.5 inches) at each location. Take a soil sample from this layer. Mix all samples together and take a 400-gram subsample. Send this to a reputable soil testing laboratory, such as those associated with IFFCO (Indian Farmers Fertiliser Cooperative). The lab will analyze the soil's nutrient levels and recommend appropriate fertilizers based on your planned crop."
+        },
+        {
+            "Question": "What nutrients do farmers often neglect, and why is regular soil testing important?",
+            "Answer": "Many farmers tend to over-focus on Urea and DAP fertilizers, often neglecting potash. Regular soil testing helps determine the precise nutrient deficiencies in your soil, allowing for more balanced and effective fertilizer use, preventing overuse of certain nutrients and ensuring optimal crop yields."
+        },
+        {
+            "Question": "What essential nutrients should farmers prioritize when using fertilizers?",
+            "Answer": "Farmers should prioritize the main nutrients: nitrogen, phosphorus, and potassium, as crops require these in the largest amounts."
+        },
+        {
+            "Question": "How are secondary nutrients like magnesium, sulfur, and calcium used in fertilizer?",
+            "Answer": "Secondary nutrients like magnesium, sulfur, and calcium are recommended for crops with higher needs for these elements. For example, sulfur is crucial for crops like garlic, onions, and peanuts (oilseed crops)."
+        },
+        {
+            "Question": "How are micronutrients addressed in fertilizer recommendations?",
+            "Answer": "Micronutrient recommendations depend on soil testing.  For instance, zinc deficiency is common in many Indian soils, while boron deficiency is prevalent in some regions. Soil testing helps determine which micronutrients are needed and optimize fertilizer use."
+        },
+        {
+            "Question": "Why is soil testing important before applying fertilizers?",
+            "Answer": "Soil testing helps determine the nutrient deficiencies in the soil.  By addressing these deficiencies, farmers can use fertilizers more effectively and achieve better yields at a lower cost."
+        },
+        {
+            "Question": "How has technology improved access to agricultural experts for farmers?",
+            "Answer": "Improved technology and phone lines allow farmers to connect quickly with agricultural experts via phone helplines. If lines are busy, farmers can record their problems, and the experts will call back with a message about the issue."
+        },
+        {
+            "Question": "What are the steps involved in planting a banana orchard?",
+            "Answer": "Dig holes measuring approximately 6x6x6 centimeters. Use tissue culture plants if possible.  Add well-rotted cow dung manure and approximately 10 grams of Bavistin to each hole. Maintain a spacing of 1.5 meters between plants and rows. This allows for approximately 4440 plants per hectare.  Get your soil tested before planting to determine necessary macro-nutrients and to avoid over-application of NPK. Add appropriate amounts of nitrogen, phosphorus, and potassium during planting. Water the plants immediately after planting."
+        },
+        {
+            "Question": "What is the recommended spacing for banana plants?",
+            "Answer": "Maintain a distance of 1.5 meters between plants and 1.5 meters between rows."
+        },
+        {
+            "Question": "How many banana plants can be accommodated in one hectare using the recommended spacing?",
+            "Answer": "Approximately 4440 plants."
+        },
+        {
+            "Question": "Why is soil testing important before planting a banana orchard?",
+            "Answer": "Soil testing helps determine the necessary macro-nutrients needed by the plants, preventing over-application of NPK fertilizers and ensuring balanced fertilization."
+        },
+        {
+            "Question": "What type of banana plants are recommended?",
+            "Answer": "Tissue culture plants are recommended for better results."
+        },
+        {
+            "Question": "What is the significance of adding well-rotted cow dung manure and Bavistin to the planting holes?",
+            "Answer": "Well-rotted cow dung manure provides organic matter and nutrients, while Bavistin acts as a fungicide to help protect the young plants from diseases."
+        },
+        {
+            "Question": "Why is watering immediately after planting essential?",
+            "Answer": "Watering immediately after planting helps the plants establish themselves and prevents wilting.  It ensures better survival and growth."
+        },
+        {
+            "Question": "How much fertilizer should be applied to a banana orchard to improve yield, and what is the optimal method of application?",
+            "Answer": "For a banana plant, you need approximately 300 grams of nitrogen, 300 grams of potash, and 100 grams of phosphorus per plant.  This should be applied in three separate installments.  Avoid applying it directly to the stem; instead, spread it around a 1-meter radius around the base of the plant. Regularly add soil around the plant base.  Adding well-rotted manure is also beneficial. Remove dried or damaged leaves for proper orchard maintenance."
+        },
+        {
+            "Question": "What are the ideal soil conditions for planting bananas?",
+            "Answer": "The ideal soil pH for banana cultivation is between 7.5 and 8. The soil should be loamy and well-drained, not waterlogged but retaining enough moisture.  Avoid soils that are excessively waterlogged or excessively draining."
+        },
+        {
+            "Question": "What should be done after planting banana plants?",
+            "Answer": "After planting, ensure that you water the plants adequately.  Maintain soil moisture, but avoid waterlogging."
+        },
+        {
+            "Question": "What should farmers do with dry leaves in their fields, and how frequently should they apply fertilizer?",
+            "Answer": "Farmers should remove dry leaves from their fields.  Fertilizer should be applied at least 3 or 4 times throughout the plant's growth cycle.  Adding well-rotted manure is also recommended."
+        },
+        {
+            "Question": "Why might plant growth be poor, and how can it be managed?",
+            "Answer": "Poor plant growth can result from various factors.  Proper field management, including removing dry leaves and timely fertilizer application (3-4 times during plant growth, along with well-rotted manure), can improve growth and fruit production."
+        },
+        {
+            "Question": "Why is soil testing crucial for achieving good crop yields?",
+            "Answer": "Soil testing is essential for understanding soil health and ensuring the right nutrients are available for optimal crop growth and yield."
+        },
+        {
+            "Question": "How should farmers use fertilizers for Kharif crops, considering varying rainfall conditions?",
+            "Answer": "For Kharif crops, fertilizer management needs to adapt to rainfall. Excessive rain can wash away fertilizers, while drought limits fertilizer use. In heavy rain, significant fertilizer loss can occur.  In drought conditions, urea-based fertilizers may be unsuitable.  An integrated approach is necessary, including using biofertilizers to enhance nutrient uptake and reduce reliance on chemical fertilizers. Biofertilizers help utilize existing soil nutrients, while nitrogen-fixing bacteria (like Azotobacter and Rhizobium) provide atmospheric nitrogen to the plants."
+        },
+        {
+            "Question": "What are some alternative fertilizer options for Kharif crops, especially during irregular rainfall?",
+            "Answer": "During irregular rainfall,  biofertilizers are a valuable alternative or supplement to chemical fertilizers.  These help the plants utilize existing soil nutrients more efficiently.  Additionally,  the use of nano-fertilizers (like nano-urea and nano-DP) is also being explored as a more efficient option."
+        },
+        {
+            "Question": "How can we use alternative fertilizers effectively to improve plant nutrition and better crop yields while protecting the environment?",
+            "Answer": "We can use biofertilizers and nanofertilizers.  These have a post-application efficiency of over 90%, do not harm the environment, soil health, or air quality, and improve both crop yield and quality. They allow for a reduction in the use of chemical fertilizers."
+        },
+        {
+            "Question": "What fertilizer recommendations do you have for soybean crops, considering it's a legume and the current monsoon season?",
+            "Answer": "Soybeans, being a legume, have nitrogen fixation capabilities.  Use biofertilizers.  Apply phosphorus and potash during sowing.  Consider using a soybean-specific Rhizobium strain (like  Rhizobium japonicum). If waterlogging occurs, spray foliar fertilizers (like nano-fertilizers) to ensure proper nutrient uptake. Ensure the plant has sufficient foliage for effective absorption through leaves during spraying."
+        },
+        {
+            "Question": "What is the best banana variety for cultivation across India, considering factors like sweetness, attractiveness, market price, and yield?",
+            "Answer": "The G9 variety, obtained through tissue culture, is widely preferred across India. It produces sweet, attractive fruits with good market prices, yields 30-35 kg per plant, is relatively resistant to diseases, and has a manageable plant size, reducing the risk of the plant falling over."
+        },
+        {
+            "Question": "Where can I obtain G9 banana saplings for cultivation?",
+            "Answer": "You can acquire G9 banana saplings from reputable institutions, good private nurseries, or agricultural science centers.  Collaborating with scientists from agricultural universities is also recommended."
+        },
+        {
+            "Question": "I want to cultivate bananas, but I'm unsure if my soil is suitable. What can I do?",
+            "Answer": "The question regarding soil suitability for banana cultivation requires further information about your soil type.  A soil test is recommended to determine the suitability of the soil and any necessary amendments."
+        },
+        {
+            "Question": "Can banana cultivation be done in my area, which has alkaline soil (Sharia mitti)?",
+            "Answer": "First, determine the level of alkalinity. If the pH is between 6.5 and 8, banana cultivation is possible.  Get your soil tested to determine the exact pH. If the pH is higher than 8, it's not suitable.  High alkalinity means increased water needs, and if water doesn't retain well in the field, it will leach out nutrients, causing problems.  So, get your soil tested; if it's highly alkaline, it's not suitable. If the pH is between 6.5 and 8, then cultivation is possible."
+        },
+        {
+            "Question": "What are the advantages of using tissue culture plants for banana cultivation, given the increasing adoption of this technique?",
+            "Answer": "Tissue culture banana plants are superior to conventionally grown plants.  Scientists select healthy plants with good fruiting characteristics for tissue culture. This ensures a better quality plant compared to those obtained through traditional methods."
+        },
+        {
+            "Question": "What are the advantages of using tissue culture plants?",
+            "Answer": "Tissue culture plants are disease-free, have a high probability of uniform growth, and produce fruit at roughly the same time.  They are 6-8 inches tall when received.  Using them ensures uniform growth across the field."
+        },
+        {
+            "Question": "How can I utilize existing plants in my orchard to fill gaps?",
+            "Answer": "You can use existing plants from your orchard to fill gaps.  However, it's crucial to regularly remove weeds around the plants to ensure good production. Before replanting, dip the uprooted plants in a 2% Bavistin solution to improve their survival chances."
+        },
+        {
+            "Question": "What is the recommended approach for establishing a new orchard?",
+            "Answer": "For a new orchard, it is highly recommended to use tissue culture plants for better growth and yield."
+        },
+        {
+            "Question": "What is the recommended amount of urea fertilizer for paddy rice after transplanting?",
+            "Answer": "For paddy rice, approximately one bag of urea per acre can be used 7-8 days after transplanting, with a subsequent application after another 21 days."
+        },
+        {
+            "Question": "How can I apply urea fertilizer to my paddy crop?",
+            "Answer": "Urea is typically applied to paddy in three stages: the first 78 days after transplanting, the second 21 days later, and the third 21 days after the second application. After the first urea application, you can also spray nano urea and nano DAP (4 ml per liter or one 500 ml bottle per acre).  Since zinc deficiency is common in paddy, you can also use nano zinc (one 100 ml bottle per acre). You can mix all three for a single spraying.  Before mixing any other chemicals, test compatibility in a small amount of water first."
+        },
+        {
+            "Question": "What can I do to address nutrient deficiencies during the flowering stage of my paddy crop?",
+            "Answer": "During flowering, plants need more phosphorus.  Nano DAP can help supplement any deficiencies remaining after initial fertilizer application, leading to better results. If you haven't applied potash, you can use a 0-0-50 grade potash fertilizer (e.g., 20 grams per liter of water) as a spray to improve grain quality."
+        },
+        {
+            "Question": "My tomatoes are experiencing excessive rain and fruit rot. What can I do?",
+            "Answer": "The provided text mentions the problem but doesn't offer a solution for excessive rain and fruit rot in tomatoes."
+        },
+        {
+            "Question": "My tomatoes are rotting due to excessive rainfall. What can be done to address this issue?",
+            "Answer": "Excessive rainfall leads to increased soil moisture, causing prolonged contact between the crop and water, resulting in rot.  You can use Calcium Nitrate.  For spraying, mix 10 grams in 1 liter of water (or 1 kg in 100 liters). Calcium Nitrate also helps prevent the bottom fruit from rotting and provides nitrogen. You can also apply 20-25 kg of Calcium Nitrate per acre directly to the soil."
+        },
+        {
+            "Question": "My soybean crop is rotting due to excessive rainfall and waterlogging. What can I do?",
+            "Answer": "Waterlogging from excessive rainfall is very harmful to soybeans. Ensure proper drainage in your field to prevent water from stagnating.  This will minimize the risk of disease and pest infestation."
+        },
+        {
+            "Question": "How to deal with pest and disease outbreaks in crops?",
+            "Answer": "Immediately spray the affected area to prevent the disease from spreading further."
+        },
+        {
+            "Question": "What fertilizer should be used in addition to urea and DAP?",
+            "Answer": "Potash should be used to increase the crop's strength, resilience, quality, and resistance to diseases and pests."
+        },
+        {
+            "Question": "How can I improve the quality and disease resistance of my crops?",
+            "Answer": "Use potash fertilizer. It strengthens the crop and increases its resistance to diseases and pests."
+        },
+        {
+            "Question": "What is the problem of Panama wilt in banana plants and how can we solve it?",
+            "Answer": "Panama wilt is a disease that affects banana plants.  The source of the planting material and the age of the plants are important factors. Older plants are more susceptible. Crop rotation is recommended if Panama wilt is a recurring problem in the field.  Changing the plant variety may also be necessary."
+        },
+        {
+            "Question": "My banana plants are showing signs of Panama disease.  What can I do?",
+            "Answer": "Panama disease often affects older banana plants. First, determine the age of your plants and the extent of the problem. Show your plants to a plant pathologist at an agricultural science center for diagnosis and treatment recommendations.  Applications of fungicides like Vestin or Mancozeb may help, but the most important long-term solution is crop rotation. Remove the old banana plants and leave the field fallow for 12 years before planting bananas again.  Continuous banana cultivation increases the risk of this disease."
+        },
+        {
+            "Question": "How can I improve the profitability of my banana farm?",
+            "Answer": "Don't rely solely on bananas. Implement intercropping to maximize land use and income. Plant other crops between banana rows, such as legumes or sugarcane,  depending on your region.  This reduces losses if the banana crop faces problems. Increase the spacing between banana plants to allow for better air circulation and easier access for machinery, such as tractors."
+        },
+        {
+            "Question": "What are the benefits of intercropping with bananas?",
+            "Answer": "Intercropping offers several advantages. It diversifies your income, providing alternative sources of revenue if your banana crop is affected by disease or pests. It improves soil health and reduces the risk of crop failure."
+        },
+        {
+            "Question": "My banana plants are too close together. What should I do?",
+            "Answer": "Increase the spacing between your banana plants. Wider spacing improves air circulation, reduces the risk of disease spread, and makes it easier to manage your plants and harvest bananas. Consider planting the bananas on the edges of raised beds for better drainage and access to sunlight."
+        },
+        {
+            "Question": "How long can I keep banana plants in one location before needing to rotate crops?",
+            "Answer": "Bananas can be grown in one location for up to 5-6 years. After that, the risk of Panama disease and other soilborne diseases increases significantly. You should rotate crops, ideally leaving the land fallow for 12 years before replanting bananas."
+        },
+        {
+            "Question": "What is one advantage of banana cultivation?",
+            "Answer": "Once planted, banana plants can produce fruit for at least 7 years.  The first harvest takes about 13 months, subsequent harvests occur every 8-9 months, and then 6-7 months after that.  However, proper management is crucial."
+        },
+        {
+            "Question": "What measures can be taken to address challenges in banana cultivation, such as reduced yield?",
+            "Answer": "Intercropping can help protect the crop and improve yield."
+        },
+        {
+            "Question": "How should fertilizer management be approached in orchard crops?",
+            "Answer": "Weed control is crucial because weeds compete for nutrients and can harbor pests and diseases.  Regular weed removal, either manually or chemically, is essential."
+        },
+        {
+            "Question": "What fertilizer recommendations are there for banana plants, especially if fertilizer hasn't been applied yet?",
+            "Answer": "For established banana plants bearing fruit, apply at least two baskets of well-rotted cow dung per plant. If cow dung isn't available, use 200 grams of Nitrogen, 100 grams of Phosphorus, and 200 grams of Potassium per plant to promote good shoot growth."
+        },
+        {
+            "Question": "How can farmers protect their plants from falling during the rainy season?",
+            "Answer": "To prevent plants from falling during rain, tie the plants together from one plant to another using rope or other materials.  Also, add soil around the base of the plants to provide support."
+        },
+        {
+            "Question": "How can farmers manage fertilizers efficiently and economically?",
+            "Answer": "Use an integrated management system. Compost old crops to use as fertilizer. Utilize biofertilizers with every crop.  Use recommended amounts of urea and DAP, avoiding excess. Explore alternatives like nano-urea and liquid fertilizers to reduce chemical fertilizer use and protect the soil and environment."
+        },
+        {
+            "Question": "What are the key aspects of advanced banana cultivation?",
+            "Answer": "Obtain high-quality banana plants from government institutions. Properly manage fertilizer and irrigation. Implement mulching.  Consider intercropping to mitigate losses from one crop with profits from another. For new banana plantations, start with intercropping in the first year."
+        },
+        {
+            "Question": "How can we use fertilizers in standing crops?",
+            "Answer": "This program discussed the use of fertilizers in standing crops, but the specifics are not provided in the transcript."
+        },
+        {
+            "Question": "What are the best practices for advanced banana cultivation?",
+            "Answer": "This program discussed advanced banana cultivation, but the specifics are not provided in the transcript."
+        },
+        {
+            "Question": "What will be the topic of the next agricultural program?",
+            "Answer": "The next program will cover mushroom cultivation and the use of information technology in agriculture."
+        },
+        {
+            "Question": "How can I submit questions for future programs?",
+            "Answer": "Send your questions via email to hello.kisan.2015@gmail.com or call the DD Kisan call center at [phone number redacted -  unclear from the provided text]."
+        },
+        {
+            "Question": "How can I rewatch this program?",
+            "Answer": "Scan the QR code displayed on the TV screen to access the program on YouTube."
+        },
+        {
+            "Question": "What fruit trees are suitable for hot climates?",
+            "Answer": "The transcript mentions HRM 99 as a potential option for hot climates, but more details are needed for complete understanding."
+        },
+        {
+            "Question": "What should I do if I have pest problems in my crops or livestock?",
+            "Answer": "Call the DD Kisan helpline (contact details mentioned but incomplete in transcript)."
+        },
+        {
+            "Question": "What is being discussed in the segment about electric car batteries?",
+            "Answer": "The discussion is about recycling electric car batteries; further detail is not provided in the given text."
+        }
+    ]
+}
