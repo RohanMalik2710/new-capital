@@ -15,9 +15,6 @@ with open("output.json", "r", encoding="utf-8") as f:
 answers = [item["Answer"] for item in qa_pairs]
 questions = [item["Question"] for item in qa_pairs]
 
-# Precompute embeddings of answers
-answer_embeddings = model.encode(answers, convert_to_tensor=True)
-
 @app.route('/query', methods=['POST'])
 def query():
     data = request.get_json()
@@ -28,6 +25,9 @@ def query():
 
     # Embed the query
     query_embedding = model.encode(question, convert_to_tensor=True)
+
+    # ⬇️ Encode answers here instead of in memory at startup
+    answer_embeddings = model.encode(answers, convert_to_tensor=True)
 
     # Search top matches using cosine similarity
     hits = util.semantic_search(query_embedding, answer_embeddings, top_k=3)[0]
