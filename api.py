@@ -43,6 +43,10 @@ def query():
 
     return jsonify({"results": results})
 
+@app.route('/check', methods=['GET', 'HEAD'])
+def check():
+    return '', 200
+
 port = int(os.environ.get("PORT", 5000))
 
 if __name__ == '__main__':
